@@ -7,7 +7,7 @@
 - class sklearn.preprocessing.LabelEncoder
   - Encode target labels with value between 0 and n_classes-1.
 - class sklearn.compose.ColumnTransformer(transformers, *, remainder='drop', sparse_threshold=0.3, n_jobs=None, transformer_weights=None, verbose=False, verbose_feature_names_out=True)
-- sklearn.model_selection.train_test_split(*arrays, test_size=None, train_size=None, random_state=None, shuffle=True, stratify=None)[source]
+- sklearn.model_selection.train_test_split(*arrays, test_size=None, train_size=None, random_state=None, shuffle=True, stratify=None)
   - Split arrays or matrices into random train and test subsets.
 - class sklearn.preprocessing.StandardScaler(*, copy=True, with_mean=True, with_std=True)
   - Standardize features by removing the mean and scaling to unit variance.
