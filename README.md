@@ -11,3 +11,15 @@
   - Split arrays or matrices into random train and test subsets.
 - class sklearn.preprocessing.StandardScaler(*, copy=True, with_mean=True, with_std=True)
   - Standardize features by removing the mean and scaling to unit variance.
+
+2. 2022_6_27 Day_2 Done
+3. 2022_6_28 Day_3 Done
+4. 2022_7_1 Day_4, Day_5, Day_6 Done
+- Logistic Regression
+  - Predict the group to which the current object under observation belongs to.
+  - Give a discrete binary outcome between 0 and 1
+- Difference between Logistic Regress and Linear Regression
+  - Logistic Regress -- discrete outcome
+  - Linear Regression -- continuous outcome
+- from sklearn.metrics import confusion_matrix
+  - confusion_matrix -- The diagonal elements represent the number of points for which the predicted label is equal to the true label, while off-diagonal elements are those that are mislabeled by the classifier. The higher the diagonal values of the confusion matrix the better, indicating many correct predictions.
