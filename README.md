@@ -13,7 +13,9 @@
   - Standardize features by removing the mean and scaling to unit variance.
 
 2. 2022_6_27 Day_2 Done
+
 3. 2022_6_28 Day_3 Done
+
 4. 2022_7_1 Day_4, Day_5, Day_6 Done
 - Logistic Regression
   - Predict the group to which the current object under observation belongs to.
